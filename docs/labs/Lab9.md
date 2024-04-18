@@ -1,10 +1,5 @@
 # Lab 9: Processes and Memory Management
 
-Please provide your feedback on the unit before starting the lab
-
-Link to access the evaluation: https://evaluation.bristol.ac.uk/home/so-eng.htm
-
-<!--
 
 In this lab, you will get familiar with processes and memory management in Linux.
 
